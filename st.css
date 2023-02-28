@@ -15,7 +15,6 @@ a:visited {color:beige;}
 a:hover {color:magenta;}
 a:active {color:maroon;}
 a:link {text-decoration: none;}
-ul {list-style-type: none;}
-ul {margin: 0;}
-ul {padding: 0;}
-li {display: inline; }
+ul {list-style-type: none; margin: 0; padding: 0;}
+li {display: inline; border: 2px dotted: black; padding: 20xp;}
+a {display: block;}
