@@ -21,4 +21,4 @@ a {display: block;}
 
 .prvni {margin bottom: 100px;}
 .druhy {background-color: black; width: 200px; height: 100px; overflow: hidden;}
-.box {background-color: lime; border: 5px solid black;}
+.box {background-color: lime; border: 5px solid black; float: left; width: 20%; padding: 5%;}
