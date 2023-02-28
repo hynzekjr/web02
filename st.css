@@ -16,5 +16,5 @@ a:hover {color:magenta;}
 a:active {color:maroon;}
 a:link {text-decoration: none;}
 ul {list-style-type: none; margin: 0; padding: 0;}
-li {display: inline; border: 2px dotted: black; padding: 20xp;}
+li {display: inline; border: 2px dotted: black; padding: 20px;}
 a {display: block;}
